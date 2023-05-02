@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/w-connect.wimova.com.ico",
     "slug": "w-connect",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.98%",
     "uptimeMonth": "99.77%",
-    "uptimeYear": "99.79%",
-    "time": 489,
-    "timeDay": 425,
-    "timeWeek": 517,
-    "timeMonth": 495,
-    "timeYear": 489,
+    "uptimeYear": "99.80%",
+    "time": 490,
+    "timeDay": 523,
+    "timeWeek": 534,
+    "timeMonth": 499,
+    "timeYear": 490,
     "dailyMinutesDown": {
       "2023-04-28": 102
     }
